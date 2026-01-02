@@ -56,7 +56,7 @@ These projects are useful for:
 
 | # | Project Name | Status |
 |---|-------------|--------|
-| 1 | Todo App | Coming Soon |
+| 1 | Todo App | LIVE[WWW.GOOGLE.COM] |
 | 2 | Calculator | Coming Soon |
 | 3 | Digital Clock | Coming Soon |
 | 4 | Stopwatch | Coming Soon |
